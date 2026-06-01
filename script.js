@@ -15,6 +15,9 @@ addBtn.addEventListener("click", () => {
     li.textContent = taskText;
     li.addEventListener("click", () => {
     li.style.textDecoration = "line-through";
+    li.addEventListener("dblclick", () => {
+    li.remove();
+});
 });
 
     taskList.appendChild(li);
