@@ -1,24 +1,26 @@
 # To-Do List App
 
-A simple task management application built using HTML, CSS and JavaScript.
+A simple task management application built using HTML, CSS, JavaScript, Git, and GitHub.
 
 ## Features
+- Add Tasks
+- Complete Tasks
+- Delete Tasks
 
-- Add tasks
-- Complete tasks
-- Delete tasks
-
-## Technologies
-
+## Technologies Used
 - HTML
 - CSS
 - JavaScript
 - Git
 - GitHub
 
-## Git Workflow
-
-- Feature Branches
+## Git Concepts Demonstrated
+- Repository Management
+- Branching
+- Commits
 - Pull Requests
 - Merging
-- Version Control
+- Version Tagging
+
+## Author
+Loukika Sawant
