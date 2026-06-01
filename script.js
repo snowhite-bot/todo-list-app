@@ -12,6 +12,9 @@ addBtn.addEventListener("click", () => {
     const li = document.createElement("li");
 
     li.textContent = taskText;
+    li.addEventListener("click", () => {
+    li.style.textDecoration = "line-through";
+});
 
     taskList.appendChild(li);
 
